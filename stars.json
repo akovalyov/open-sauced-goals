@@ -7,19 +7,19 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 56977,
-    "open_issues_count": 4,
-    "forks_count": 5513
+    "stargazers_count": 57013,
+    "open_issues_count": 5,
+    "forks_count": 5516
   },
   {
     "full_name": "h5bp/html5-boilerplate",
-    "stargazers_count": 51874,
-    "open_issues_count": 10,
-    "forks_count": 11793
+    "stargazers_count": 51889,
+    "open_issues_count": 9,
+    "forks_count": 11796
   },
   {
     "full_name": "php/php-rfcs",
-    "stargazers_count": 297,
+    "stargazers_count": 299,
     "open_issues_count": 1,
     "forks_count": 31
   },
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "ru-de/faq",
-    "stargazers_count": 1816,
+    "stargazers_count": 1819,
     "open_issues_count": 2,
-    "forks_count": 345
+    "forks_count": 346
   },
   {
     "full_name": "nginx-boilerplate/nginx-boilerplate",
-    "stargazers_count": 2433,
+    "stargazers_count": 2434,
     "open_issues_count": 1,
     "forks_count": 203
   },
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "chjj/blessed",
-    "stargazers_count": 10244,
+    "stargazers_count": 10245,
     "open_issues_count": 244,
-    "forks_count": 509
+    "forks_count": 510
   },
   {
     "full_name": "FormidableLabs/webpack-dashboard",
@@ -80,18 +80,18 @@
   {
     "full_name": "test-kitchen/test-kitchen",
     "stargazers_count": 1792,
-    "open_issues_count": 130,
+    "open_issues_count": 132,
     "forks_count": 585
   },
   {
     "full_name": "ziadoz/awesome-php",
-    "stargazers_count": 25918,
+    "stargazers_count": 25933,
     "open_issues_count": 106,
-    "forks_count": 4918
+    "forks_count": 4922
   },
   {
     "full_name": "simshaun/recurr",
-    "stargazers_count": 1061,
+    "stargazers_count": 1062,
     "open_issues_count": 40,
     "forks_count": 123
   },
@@ -99,7 +99,7 @@
     "full_name": "jenssegers/imagehash",
     "stargazers_count": 1729,
     "open_issues_count": 33,
-    "forks_count": 157
+    "forks_count": 156
   },
   {
     "full_name": "janephp/openapi",
@@ -117,7 +117,7 @@
     "full_name": "inkatze/wildfly",
     "stargazers_count": 24,
     "open_issues_count": 21,
-    "forks_count": 30
+    "forks_count": 31
   },
   {
     "full_name": "fansible/ansible-provisioning-tywin",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "heynickc/awesome-ddd",
-    "stargazers_count": 8012,
+    "stargazers_count": 8039,
     "open_issues_count": 6,
-    "forks_count": 1043
+    "forks_count": 1044
   },
   {
     "full_name": "docteurklein/TestDoubleBundle",
@@ -141,17 +141,17 @@
     "full_name": "fzaninotto/uptime",
     "stargazers_count": 3612,
     "open_issues_count": 147,
-    "forks_count": 745
+    "forks_count": 744
   },
   {
     "full_name": "cloudflare/docker-phan",
-    "stargazers_count": 59,
+    "stargazers_count": 60,
     "open_issues_count": 5,
     "forks_count": 24
   },
   {
     "full_name": "DATA-DOG/DataDogAuditBundle",
-    "stargazers_count": 119,
+    "stargazers_count": 120,
     "open_issues_count": 18,
     "forks_count": 57
   },
