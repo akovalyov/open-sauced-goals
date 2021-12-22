@@ -1,21 +1,21 @@
 [
   {
     "full_name": "abertschi/graalphp",
-    "stargazers_count": 259,
+    "stargazers_count": 260,
     "open_issues_count": 25,
     "forks_count": 10
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 57111,
-    "open_issues_count": 7,
-    "forks_count": 5539
+    "stargazers_count": 57399,
+    "open_issues_count": 8,
+    "forks_count": 5580
   },
   {
     "full_name": "h5bp/html5-boilerplate",
-    "stargazers_count": 51914,
-    "open_issues_count": 9,
-    "forks_count": 11809
+    "stargazers_count": 52027,
+    "open_issues_count": 8,
+    "forks_count": 11844
   },
   {
     "full_name": "php/php-rfcs",
@@ -37,69 +37,69 @@
   },
   {
     "full_name": "K-Phoen/rulerz",
-    "stargazers_count": 846,
-    "open_issues_count": 25,
-    "forks_count": 74
+    "stargazers_count": 844,
+    "open_issues_count": 26,
+    "forks_count": 73
   },
   {
     "full_name": "ru-de/faq",
-    "stargazers_count": 1823,
-    "open_issues_count": 2,
-    "forks_count": 346
+    "stargazers_count": 1840,
+    "open_issues_count": 6,
+    "forks_count": 350
   },
   {
     "full_name": "nginx-boilerplate/nginx-boilerplate",
-    "stargazers_count": 2433,
+    "stargazers_count": 2437,
     "open_issues_count": 1,
     "forks_count": 203
   },
   {
     "full_name": "joshp23/ttrss-to-wallabag-v2",
-    "stargazers_count": 70,
+    "stargazers_count": 72,
     "open_issues_count": 2,
     "forks_count": 10
   },
   {
     "full_name": "subuser-security/subuser",
-    "stargazers_count": 853,
+    "stargazers_count": 856,
     "open_issues_count": 41,
     "forks_count": 67
   },
   {
     "full_name": "chjj/blessed",
-    "stargazers_count": 10257,
+    "stargazers_count": 10283,
     "open_issues_count": 243,
-    "forks_count": 511
+    "forks_count": 515
   },
   {
     "full_name": "FormidableLabs/webpack-dashboard",
-    "stargazers_count": 13838,
+    "stargazers_count": 13849,
     "open_issues_count": 32,
-    "forks_count": 426
+    "forks_count": 425
   },
   {
     "full_name": "test-kitchen/test-kitchen",
     "stargazers_count": 1794,
-    "open_issues_count": 130,
+    "open_issues_count": 131,
     "forks_count": 585
   },
   {
     "full_name": "ziadoz/awesome-php",
-    "stargazers_count": 25952,
-    "open_issues_count": 105,
-    "forks_count": 4923
+    "stargazers_count": 26045,
+    "open_issues_count": 104,
+    "forks_count": 4938
   },
   {
     "full_name": "simshaun/recurr",
-    "stargazers_count": 1062,
+    "stargazers_count": 1070,
     "open_issues_count": 40,
-    "forks_count": 123
+    "forks_count": 124
   },
   {
     "full_name": "jenssegers/imagehash",
-    "stargazers_count": 1731,
-    "open_issues_count": 33,
-    "forks_count": 156
+    "stargazers_count": 1745,
+    "open_issues_count": 29,
+    "forks_count": 157
   },
   {
     "full_name": "janephp/openapi",
@@ -115,9 +115,9 @@
   },
   {
     "full_name": "inkatze/wildfly",
-    "stargazers_count": 24,
+    "stargazers_count": 23,
     "open_issues_count": 21,
-    "forks_count": 31
+    "forks_count": 30
   },
   {
     "full_name": "fansible/ansible-provisioning-tywin",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "heynickc/awesome-ddd",
-    "stargazers_count": 8063,
-    "open_issues_count": 6,
-    "forks_count": 1047
+    "stargazers_count": 8154,
+    "open_issues_count": 4,
+    "forks_count": 1067
   },
   {
     "full_name": "docteurklein/TestDoubleBundle",
@@ -145,15 +145,15 @@
   },
   {
     "full_name": "cloudflare/docker-phan",
-    "stargazers_count": 60,
+    "stargazers_count": 59,
     "open_issues_count": 5,
     "forks_count": 24
   },
   {
     "full_name": "DATA-DOG/DataDogAuditBundle",
-    "stargazers_count": 119,
-    "open_issues_count": 18,
-    "forks_count": 57
+    "stargazers_count": 120,
+    "open_issues_count": 23,
+    "forks_count": 58
   },
   {
     "full_name": "tombuyse/ionic-appium-protractor-example",
@@ -163,9 +163,9 @@
   },
   {
     "full_name": "wordpress-clients/hybrid",
-    "stargazers_count": 1023,
+    "stargazers_count": 1024,
     "open_issues_count": 55,
-    "forks_count": 372
+    "forks_count": 371
   },
   {
     "full_name": "sirian/suggest-bundle",
