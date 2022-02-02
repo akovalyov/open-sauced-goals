@@ -7,15 +7,15 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 57915,
-    "open_issues_count": 8,
-    "forks_count": 5631
+    "stargazers_count": 57960,
+    "open_issues_count": 5,
+    "forks_count": 5634
   },
   {
     "full_name": "h5bp/html5-boilerplate",
-    "stargazers_count": 52237,
-    "open_issues_count": 11,
-    "forks_count": 11897
+    "stargazers_count": 52255,
+    "open_issues_count": 14,
+    "forks_count": 11913
   },
   {
     "full_name": "php/php-rfcs",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "ru-de/faq",
-    "stargazers_count": 1862,
+    "stargazers_count": 1864,
     "open_issues_count": 4,
-    "forks_count": 354
+    "forks_count": 355
   },
   {
     "full_name": "nginx-boilerplate/nginx-boilerplate",
@@ -67,37 +67,37 @@
   },
   {
     "full_name": "chjj/blessed",
-    "stargazers_count": 10329,
+    "stargazers_count": 10335,
     "open_issues_count": 243,
     "forks_count": 514
   },
   {
     "full_name": "FormidableLabs/webpack-dashboard",
-    "stargazers_count": 13858,
+    "stargazers_count": 13856,
     "open_issues_count": 30,
     "forks_count": 426
   },
   {
     "full_name": "test-kitchen/test-kitchen",
     "stargazers_count": 1798,
-    "open_issues_count": 131,
-    "forks_count": 586
+    "open_issues_count": 125,
+    "forks_count": 587
   },
   {
     "full_name": "ziadoz/awesome-php",
-    "stargazers_count": 26164,
-    "open_issues_count": 107,
+    "stargazers_count": 26179,
+    "open_issues_count": 108,
     "forks_count": 4942
   },
   {
     "full_name": "simshaun/recurr",
-    "stargazers_count": 1078,
+    "stargazers_count": 1079,
     "open_issues_count": 41,
     "forks_count": 123
   },
   {
     "full_name": "jenssegers/imagehash",
-    "stargazers_count": 1748,
+    "stargazers_count": 1749,
     "open_issues_count": 29,
     "forks_count": 159
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "heynickc/awesome-ddd",
-    "stargazers_count": 8279,
+    "stargazers_count": 8292,
     "open_issues_count": 1,
-    "forks_count": 1097
+    "forks_count": 1096
   },
   {
     "full_name": "docteurklein/TestDoubleBundle",
@@ -141,7 +141,7 @@
     "full_name": "fzaninotto/uptime",
     "stargazers_count": 3610,
     "open_issues_count": 147,
-    "forks_count": 747
+    "forks_count": 748
   },
   {
     "full_name": "cloudflare/docker-phan",
