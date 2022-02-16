@@ -7,15 +7,15 @@
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 58078,
+    "stargazers_count": 58117,
     "open_issues_count": 5,
-    "forks_count": 5656
+    "forks_count": 5661
   },
   {
     "full_name": "h5bp/html5-boilerplate",
-    "stargazers_count": 52291,
+    "stargazers_count": 52300,
     "open_issues_count": 8,
-    "forks_count": 11955
+    "forks_count": 11961
   },
   {
     "full_name": "php/php-rfcs",
@@ -37,7 +37,7 @@
   },
   {
     "full_name": "K-Phoen/rulerz",
-    "stargazers_count": 845,
+    "stargazers_count": 844,
     "open_issues_count": 26,
     "forks_count": 75
   },
@@ -45,13 +45,13 @@
     "full_name": "ru-de/faq",
     "stargazers_count": 1874,
     "open_issues_count": 4,
-    "forks_count": 357
+    "forks_count": 356
   },
   {
     "full_name": "nginx-boilerplate/nginx-boilerplate",
     "stargazers_count": 2436,
     "open_issues_count": 1,
-    "forks_count": 204
+    "forks_count": 205
   },
   {
     "full_name": "joshp23/ttrss-to-wallabag-v2",
@@ -67,37 +67,37 @@
   },
   {
     "full_name": "chjj/blessed",
-    "stargazers_count": 10355,
-    "open_issues_count": 243,
-    "forks_count": 516
+    "stargazers_count": 10359,
+    "open_issues_count": 244,
+    "forks_count": 517
   },
   {
     "full_name": "FormidableLabs/webpack-dashboard",
-    "stargazers_count": 13853,
+    "stargazers_count": 13856,
     "open_issues_count": 30,
-    "forks_count": 426
+    "forks_count": 427
   },
   {
     "full_name": "test-kitchen/test-kitchen",
     "stargazers_count": 1799,
-    "open_issues_count": 127,
+    "open_issues_count": 128,
     "forks_count": 586
   },
   {
     "full_name": "ziadoz/awesome-php",
-    "stargazers_count": 26204,
-    "open_issues_count": 108,
-    "forks_count": 4954
+    "stargazers_count": 26223,
+    "open_issues_count": 110,
+    "forks_count": 4957
   },
   {
     "full_name": "simshaun/recurr",
-    "stargazers_count": 1081,
+    "stargazers_count": 1082,
     "open_issues_count": 41,
     "forks_count": 123
   },
   {
     "full_name": "jenssegers/imagehash",
-    "stargazers_count": 1751,
+    "stargazers_count": 1752,
     "open_issues_count": 29,
     "forks_count": 159
   },
@@ -121,15 +121,15 @@
   },
   {
     "full_name": "fansible/ansible-provisioning-tywin",
-    "stargazers_count": 68,
+    "stargazers_count": 69,
     "open_issues_count": 1,
     "forks_count": 8
   },
   {
     "full_name": "heynickc/awesome-ddd",
-    "stargazers_count": 8326,
+    "stargazers_count": 8344,
     "open_issues_count": 2,
-    "forks_count": 1101
+    "forks_count": 1102
   },
   {
     "full_name": "docteurklein/TestDoubleBundle",
@@ -151,7 +151,7 @@
   },
   {
     "full_name": "DATA-DOG/DataDogAuditBundle",
-    "stargazers_count": 120,
+    "stargazers_count": 121,
     "open_issues_count": 22,
     "forks_count": 58
   },
@@ -165,7 +165,7 @@
     "full_name": "wordpress-clients/hybrid",
     "stargazers_count": 1024,
     "open_issues_count": 55,
-    "forks_count": 372
+    "forks_count": 370
   },
   {
     "full_name": "sirian/suggest-bundle",
