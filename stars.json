@@ -1,21 +1,21 @@
 [
   {
     "full_name": "abertschi/graalphp",
-    "stargazers_count": 262,
+    "stargazers_count": 263,
     "open_issues_count": 25,
     "forks_count": 10
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 58855,
+    "stargazers_count": 58926,
     "open_issues_count": 5,
-    "forks_count": 5715
+    "forks_count": 5722
   },
   {
     "full_name": "h5bp/html5-boilerplate",
-    "stargazers_count": 52590,
+    "stargazers_count": 52616,
     "open_issues_count": 10,
-    "forks_count": 11983
+    "forks_count": 11988
   },
   {
     "full_name": "php/php-rfcs",
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "ru-de/faq",
-    "stargazers_count": 1907,
+    "stargazers_count": 1918,
     "open_issues_count": 5,
-    "forks_count": 359
+    "forks_count": 361
   },
   {
     "full_name": "nginx-boilerplate/nginx-boilerplate",
@@ -67,27 +67,27 @@
   },
   {
     "full_name": "chjj/blessed",
-    "stargazers_count": 10427,
+    "stargazers_count": 10431,
     "open_issues_count": 244,
     "forks_count": 529
   },
   {
     "full_name": "FormidableLabs/webpack-dashboard",
-    "stargazers_count": 13873,
+    "stargazers_count": 13876,
     "open_issues_count": 31,
     "forks_count": 431
   },
   {
     "full_name": "test-kitchen/test-kitchen",
-    "stargazers_count": 1804,
-    "open_issues_count": 128,
+    "stargazers_count": 1805,
+    "open_issues_count": 127,
     "forks_count": 588
   },
   {
     "full_name": "ziadoz/awesome-php",
-    "stargazers_count": 26413,
+    "stargazers_count": 26429,
     "open_issues_count": 111,
-    "forks_count": 4963
+    "forks_count": 4968
   },
   {
     "full_name": "simshaun/recurr",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "heynickc/awesome-ddd",
-    "stargazers_count": 8526,
+    "stargazers_count": 8538,
     "open_issues_count": 1,
-    "forks_count": 1128
+    "forks_count": 1130
   },
   {
     "full_name": "docteurklein/TestDoubleBundle",
@@ -152,7 +152,7 @@
   {
     "full_name": "DATA-DOG/DataDogAuditBundle",
     "stargazers_count": 122,
-    "open_issues_count": 23,
+    "open_issues_count": 24,
     "forks_count": 58
   },
   {
