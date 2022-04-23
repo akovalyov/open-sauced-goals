@@ -1,21 +1,21 @@
 [
   {
     "full_name": "abertschi/graalphp",
-    "stargazers_count": 263,
+    "stargazers_count": 264,
     "open_issues_count": 25,
     "forks_count": 10
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 59028,
+    "stargazers_count": 59154,
     "open_issues_count": 4,
-    "forks_count": 5723
+    "forks_count": 5734
   },
   {
     "full_name": "h5bp/html5-boilerplate",
-    "stargazers_count": 52669,
+    "stargazers_count": 52711,
     "open_issues_count": 9,
-    "forks_count": 11986
+    "forks_count": 11991
   },
   {
     "full_name": "php/php-rfcs",
@@ -43,7 +43,7 @@
   },
   {
     "full_name": "ru-de/faq",
-    "stargazers_count": 1922,
+    "stargazers_count": 1925,
     "open_issues_count": 7,
     "forks_count": 362
   },
@@ -57,7 +57,7 @@
     "full_name": "joshp23/ttrss-to-wallabag-v2",
     "stargazers_count": 71,
     "open_issues_count": 5,
-    "forks_count": 11
+    "forks_count": 12
   },
   {
     "full_name": "subuser-security/subuser",
@@ -67,9 +67,9 @@
   },
   {
     "full_name": "chjj/blessed",
-    "stargazers_count": 10444,
+    "stargazers_count": 10450,
     "open_issues_count": 244,
-    "forks_count": 527
+    "forks_count": 529
   },
   {
     "full_name": "FormidableLabs/webpack-dashboard",
@@ -79,25 +79,25 @@
   },
   {
     "full_name": "test-kitchen/test-kitchen",
-    "stargazers_count": 1805,
-    "open_issues_count": 127,
-    "forks_count": 589
+    "stargazers_count": 1806,
+    "open_issues_count": 129,
+    "forks_count": 590
   },
   {
     "full_name": "ziadoz/awesome-php",
-    "stargazers_count": 26461,
-    "open_issues_count": 113,
+    "stargazers_count": 26482,
+    "open_issues_count": 111,
     "forks_count": 4968
   },
   {
     "full_name": "simshaun/recurr",
-    "stargazers_count": 1095,
+    "stargazers_count": 1098,
     "open_issues_count": 42,
     "forks_count": 125
   },
   {
     "full_name": "jenssegers/imagehash",
-    "stargazers_count": 1785,
+    "stargazers_count": 1786,
     "open_issues_count": 30,
     "forks_count": 160
   },
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "heynickc/awesome-ddd",
-    "stargazers_count": 8572,
+    "stargazers_count": 8585,
     "open_issues_count": 1,
-    "forks_count": 1134
+    "forks_count": 1137
   },
   {
     "full_name": "docteurklein/TestDoubleBundle",
@@ -152,7 +152,7 @@
   {
     "full_name": "DATA-DOG/DataDogAuditBundle",
     "stargazers_count": 122,
-    "open_issues_count": 24,
+    "open_issues_count": 25,
     "forks_count": 58
   },
   {
