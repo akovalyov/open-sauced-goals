@@ -1,25 +1,25 @@
 [
   {
     "full_name": "abertschi/graalphp",
-    "stargazers_count": 264,
+    "stargazers_count": 265,
     "open_issues_count": 25,
     "forks_count": 10
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 60003,
-    "open_issues_count": 5,
-    "forks_count": 5807
+    "stargazers_count": 60041,
+    "open_issues_count": 1,
+    "forks_count": 5811
   },
   {
     "full_name": "h5bp/html5-boilerplate",
-    "stargazers_count": 52863,
-    "open_issues_count": 13,
-    "forks_count": 12011
+    "stargazers_count": 52868,
+    "open_issues_count": 17,
+    "forks_count": 12013
   },
   {
     "full_name": "php/php-rfcs",
-    "stargazers_count": 298,
+    "stargazers_count": 297,
     "open_issues_count": 1,
     "forks_count": 32
   },
@@ -43,9 +43,9 @@
   },
   {
     "full_name": "ru-de/faq",
-    "stargazers_count": 1966,
-    "open_issues_count": 9,
-    "forks_count": 368
+    "stargazers_count": 1969,
+    "open_issues_count": 7,
+    "forks_count": 367
   },
   {
     "full_name": "nginx-boilerplate/nginx-boilerplate",
@@ -67,13 +67,13 @@
   },
   {
     "full_name": "chjj/blessed",
-    "stargazers_count": 10499,
+    "stargazers_count": 10504,
     "open_issues_count": 245,
-    "forks_count": 531
+    "forks_count": 530
   },
   {
     "full_name": "FormidableLabs/webpack-dashboard",
-    "stargazers_count": 13872,
+    "stargazers_count": 13875,
     "open_issues_count": 31,
     "forks_count": 428
   },
@@ -85,13 +85,13 @@
   },
   {
     "full_name": "ziadoz/awesome-php",
-    "stargazers_count": 26605,
+    "stargazers_count": 26612,
     "open_issues_count": 103,
     "forks_count": 4962
   },
   {
     "full_name": "simshaun/recurr",
-    "stargazers_count": 1098,
+    "stargazers_count": 1101,
     "open_issues_count": 42,
     "forks_count": 124
   },
@@ -127,7 +127,7 @@
   },
   {
     "full_name": "heynickc/awesome-ddd",
-    "stargazers_count": 8718,
+    "stargazers_count": 8721,
     "open_issues_count": 2,
     "forks_count": 1156
   },
