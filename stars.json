@@ -2,20 +2,20 @@
   {
     "full_name": "abertschi/graalphp",
     "stargazers_count": 266,
-    "open_issues_count": 25,
+    "open_issues_count": 26,
     "forks_count": 11
   },
   {
     "full_name": "thedaviddias/Front-End-Checklist",
-    "stargazers_count": 60355,
+    "stargazers_count": 60404,
     "open_issues_count": 2,
-    "forks_count": 5854
+    "forks_count": 5859
   },
   {
     "full_name": "h5bp/html5-boilerplate",
-    "stargazers_count": 52962,
+    "stargazers_count": 52975,
     "open_issues_count": 10,
-    "forks_count": 12035
+    "forks_count": 12038
   },
   {
     "full_name": "php/php-rfcs",
@@ -43,13 +43,13 @@
   },
   {
     "full_name": "ru-de/faq",
-    "stargazers_count": 1987,
-    "open_issues_count": 9,
-    "forks_count": 370
+    "stargazers_count": 1988,
+    "open_issues_count": 10,
+    "forks_count": 371
   },
   {
     "full_name": "nginx-boilerplate/nginx-boilerplate",
-    "stargazers_count": 2440,
+    "stargazers_count": 2439,
     "open_issues_count": 1,
     "forks_count": 203
   },
@@ -67,27 +67,27 @@
   },
   {
     "full_name": "chjj/blessed",
-    "stargazers_count": 10525,
+    "stargazers_count": 10529,
     "open_issues_count": 245,
     "forks_count": 533
   },
   {
     "full_name": "FormidableLabs/webpack-dashboard",
-    "stargazers_count": 13880,
-    "open_issues_count": 31,
+    "stargazers_count": 13881,
+    "open_issues_count": 32,
     "forks_count": 427
   },
   {
     "full_name": "test-kitchen/test-kitchen",
-    "stargazers_count": 1810,
+    "stargazers_count": 1811,
     "open_issues_count": 131,
     "forks_count": 591
   },
   {
     "full_name": "ziadoz/awesome-php",
-    "stargazers_count": 26691,
+    "stargazers_count": 26720,
     "open_issues_count": 103,
-    "forks_count": 4969
+    "forks_count": 4971
   },
   {
     "full_name": "simshaun/recurr",
@@ -97,9 +97,9 @@
   },
   {
     "full_name": "jenssegers/imagehash",
-    "stargazers_count": 1797,
+    "stargazers_count": 1799,
     "open_issues_count": 31,
-    "forks_count": 161
+    "forks_count": 160
   },
   {
     "full_name": "janephp/openapi",
@@ -127,9 +127,9 @@
   },
   {
     "full_name": "heynickc/awesome-ddd",
-    "stargazers_count": 8761,
+    "stargazers_count": 8779,
     "open_issues_count": 2,
-    "forks_count": 1162
+    "forks_count": 1161
   },
   {
     "full_name": "docteurklein/TestDoubleBundle",
@@ -176,7 +176,7 @@
   {
     "full_name": "DrBenton/rougemine.com-online-resume",
     "stargazers_count": 1,
-    "open_issues_count": 20,
+    "open_issues_count": 21,
     "forks_count": 0
   }
 ]
